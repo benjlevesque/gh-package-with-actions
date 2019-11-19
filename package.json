@@ -1,6 +1,7 @@
 {
-  "name": "gh-package-with-actions",
+  "name": "@benjlevesque/gh-package-with-actions",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/benjlevesque/gh-package-with-actions"
 }
