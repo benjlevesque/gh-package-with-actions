@@ -1,5 +1,5 @@
 {
-  "name": "@benjlevesque/gh-package-with-actions",
+  "name": "@benjlevesque/my-package",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
