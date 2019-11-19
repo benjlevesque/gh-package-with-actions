@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "repository": "https://github.com/benjlevesque/gh-package-with-actions"
+  "repository": "https://github.com/benjlevesque/gh-package-with-actions",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
